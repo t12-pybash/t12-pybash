@@ -1,4 +1,4 @@
-## Ciarán Donegan — Lead SRE
+## Ciarán Donegan
 
 Infrastructure engineer specialising in AI inference infrastructure and Kubernetes platform engineering. Background across fintech, blockchain, and enterprise cloud. AWS Certified Solutions Architect.
 

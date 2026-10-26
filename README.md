@@ -6,7 +6,7 @@ Infrastructure engineer specialising in AI inference infrastructure and Kubernet
 
 ### What I build
 
-**[homelab-gitops](https://t-12.io/solutions/multi-cluster-setup-guide/)** — 5-node bare-metal Kubernetes cluster with Cilium eBPF networking, Flux GitOps, and a fully airgapped private AI platform: Ollama GPU inference, LiteLLM, Open-WebUI, Qdrant RAG pipeline. Falco runtime detection, SOPS-encrypted secrets, default-deny NetworkPolicies, Velero backups.
+**[olympus-gitops](https://t-12.io/solutions/multi-cluster-setup-guide/)** — 5-node bare-metal Kubernetes cluster with Cilium eBPF networking, Flux GitOps, and a fully airgapped private AI platform: Ollama GPU inference, LiteLLM, Open-WebUI, Qdrant RAG pipeline. Falco runtime detection, SOPS-encrypted secrets, default-deny NetworkPolicies, Velero backups.
 
 **[argus](https://t-12.io/solutions/argus-sre-agent/)** — Autonomous SRE agent: detects failing Kubernetes pods, diagnoses root cause via LLM, generates a GitOps patch, opens a GitLab MR, and deploys through Flux with Slack approval. Runs entirely on-cluster — no data leaves the environment.
 

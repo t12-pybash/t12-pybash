@@ -24,4 +24,4 @@ AI Infra      Ollama · LiteLLM · Qdrant · Redpanda · RAG pipelines · GPU sc
 Languages     Python · Go · Bash
 
 ---
-<img src="cork.png" height="20" alt="Cork coat of arms">   **[t-12.io](https://t-12.io)** · **[LinkedIn](https://www.linkedin.com/in/cdonegan7/)** · Cork, Ireland
+**[t-12.io](https://t-12.io)** · **[LinkedIn](https://www.linkedin.com/in/cdonegan7/)** · Cork, Ireland

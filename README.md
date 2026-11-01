@@ -1,8 +1,8 @@
-Lead SRE | AI Platform Infrastructure | Kubernetes · Flux GitOps · Terraform · Private LLMs
+## Lead SRE | AI Platform Infrastructure | Kubernetes · Flux GitOps · Terraform · Private LLMs
 
 ---
 
-What I build
+## What I build
 
 olympus-gitops — 5-node bare-metal Kubernetes cluster with Cilium eBPF networking, Flux GitOps, and a fully airgapped private AI platform: Ollama GPU inference, LiteLLM, Open-WebUI, Qdrant RAG pipeline. Falco runtime detection, SOPS-encrypted secrets, default-deny NetworkPolicies, Velero backups.
 
@@ -12,7 +12,7 @@ fullnode-infrastructure — Production-grade OP Stack (Ethereum L1/L2) node infr
 
 ---
 
-Stack
+## Stack
 
 Cloud         AWS (CSA) · Azure · GCP · OCI · Bare metal (OVH, Equinix, Hetzner)
 Kubernetes    kubeadm · EKS · Talos · Flux CD · ArgoCD · Helm · Kustomize
@@ -25,4 +25,4 @@ Languages     Python · Go · Bash
 
 ---
 
-t-12.io · LinkedIn · Cork, Ireland
+## t-12.io · LinkedIn · Cork, Ireland

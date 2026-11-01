@@ -11,17 +11,17 @@
 **[fullnode-infrastructure](https://github.com/t12-pybash/fullnode-infrastructure)**: Production-grade OP Stack (Ethereum L1/L2) node infrastructure on AWS EKS. Kubernetes StatefulSets, Terraform, Cilium network policies, custom Prometheus blockchain metrics exporter.
 
 ---
-
 ## Stack
 
-Cloud         AWS (CSA) · Azure · GCP · OCI · Bare metal (OVH, Equinix, Hetzner)
-Kubernetes    kubeadm · EKS · Talos · Flux CD · ArgoCD · Helm · Kustomize
-Networking    Cilium · eBPF · Hubble · Calico · WireGuard · pfSense · F5
-IaC           Terraform · Terragrunt · Ansible · Bicep
-Security      Falco · FedRAMP · SOC 2 · PCI DSS · SOPS · NetworkPolicies
-Observability Prometheus · Grafana · Loki · Alertmanager · custom exporters
-AI Infra      Ollama · LiteLLM · Qdrant · Redpanda · RAG pipelines · GPU scheduling
-Languages     Python · Go · Bash
+**Cloud** — AWS · Azure · GCP · OCI · Bare metal
+**Kubernetes** — kubeadm · EKS · Talos · Flux CD · ArgoCD · Helm · Kustomize
+**Networking** — Cilium · eBPF · Hubble · WireGuard · pfSense · Calico · F5
+**IaC** — Terraform · Terragrunt · Ansible · Bicep
+**CI/CD** — GitLab CI/CD · GitHub Actions
+**Observability** — Prometheus · Grafana · Loki · Alertmanager · DCGM · custom exporters
+**Security** — Falco · FedRAMP · SOC 2 · PCI DSS · GDPR · SOPS+age · NetworkPolicies
+**AI Infra** — Ollama · vLLM · LiteLLM · Qdrant · Redpanda · RAG pipelines · GPU scheduling
+**Languages** — Python · Go · Bash
 
 ---
 **[t-12.io](https://t-12.io)** · **[LinkedIn](https://www.linkedin.com/in/cdonegan7/)** · Cork, Ireland

@@ -15,15 +15,15 @@
 ---
 ## Stack
 
-**Cloud** — AWS · Azure · GCP · OCI · Bare metal  
-**Kubernetes** — kubeadm · EKS · Talos · Flux CD · ArgoCD · Helm · Kustomize  
-**Networking** — Cilium · eBPF · Hubble · WireGuard · pfSense · Calico · F5  
-**IaC** — Terraform · Terragrunt · Ansible · Bicep  
-**CI/CD** — GitLab CI/CD · GitHub Actions  
-**Observability** — Prometheus · Grafana · Loki · Alertmanager · DCGM · custom exporters  
-**Security** — Falco · FedRAMP · SOC 2 · PCI DSS · GDPR · SOPS+age · NetworkPolicies  
-**AI Infra** — Ollama · vLLM · LiteLLM · Qdrant · Redpanda · RAG pipelines · GPU scheduling  
-**Languages** — Python · Go · Bash  
+**Cloud** : AWS · Azure · GCP · OCI · Bare metal  
+**Kubernetes** : kubeadm · EKS · Talos · Flux CD · ArgoCD · Helm · Kustomize  
+**Networking** : Cilium · eBPF · Hubble · WireGuard · pfSense · Calico · F5  
+**IaC** : Terraform · Terragrunt · Ansible · Bicep  
+**CI/CD** : GitLab CI/CD · GitHub Actions  
+**Observability** : Prometheus · Grafana · Loki · Alertmanager · DCGM · custom exporters  
+**Security** : Falco · FedRAMP · SOC 2 · PCI DSS · GDPR · SOPS+age · NetworkPolicies  
+**AI Infra** : Ollama · vLLM · LiteLLM · Qdrant · Redpanda · RAG pipelines · GPU scheduling  
+**Languages** : Python · Go · Bash  
 
 ---
 

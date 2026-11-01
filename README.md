@@ -4,7 +4,7 @@
 
 ## What I build
 
-olympus-gitops: 5-node bare-metal Kubernetes cluster with Cilium eBPF networking, Flux GitOps, and a fully airgapped private AI platform: Ollama GPU inference, LiteLLM, Open-WebUI, Qdrant RAG pipeline. Falco runtime detection, SOPS-encrypted secrets, default-deny NetworkPolicies, Velero backups.
+olympus-gitops-platform: 5-node bare-metal Kubernetes cluster with Cilium eBPF networking, Flux GitOps, and a fully airgapped private AI platform: Ollama GPU inference, LiteLLM, Open-WebUI, Qdrant RAG pipeline. Falco runtime detection, SOPS-encrypted secrets, default-deny NetworkPolicies, Velero backups.
 
 argus: Autonomous SRE agent: detects failing Kubernetes pods, diagnoses root cause via LLM, generates a GitOps patch, opens a GitLab MR, and deploys through Flux with Slack approval. Runs entirely on-cluster. No data leaves the environment.
 

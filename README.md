@@ -1,4 +1,4 @@
-Lead SRE working in infrastructure and Kubernetes platform engineering. Background across fintech, blockchain, and enterprise cloud. AWS Certified Solutions Architect.
+"Lead SRE | AI Platform Infrastructure | Kubernetes · Flux GitOps · Terraform · Private LLMs"
 
 ---
 

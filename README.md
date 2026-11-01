@@ -25,4 +25,4 @@ Languages     Python · Go · Bash
 
 ---
 
-## t-12.io · LinkedIn · Cork, Ireland
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/..." height="20" alt="Cork coat of arms"> **[t-12.io](https://t-12.io)** · **[LinkedIn](https://www.linkedin.com/in/cdonegan7/)** · Cork, Ireland

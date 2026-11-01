@@ -8,6 +8,8 @@
 
 **[argus](https://t-12.io/solutions/argus-sre-agent/)**: Autonomous SRE agent: detects failing Kubernetes pods, diagnoses root cause via LLM, generates a GitOps patch, opens a GitLab MR, and deploys through Flux with Slack approval. Runs entirely on-cluster. No data leaves the environment.
 
+**[olympus-eks](https://github.com/t12-pybash/olympus-eks)**: GPU inference on AWS EKS — Terraform, Karpenter spot autoscaling with scale-to-zero, vLLM serving a quantized model on a T4, DCGM + Prometheus + Grafana observability stack. Load tested to GPU saturation; documented two distinct inference failure modes.
+
 **[fullnode-infrastructure](https://github.com/t12-pybash/fullnode-infrastructure)**: Production-grade OP Stack (Ethereum L1/L2) node infrastructure on AWS EKS. Kubernetes StatefulSets, Terraform, Cilium network policies, custom Prometheus blockchain metrics exporter.
 
 ---
